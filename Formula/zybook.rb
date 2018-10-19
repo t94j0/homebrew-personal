@@ -4,7 +4,7 @@ class Zybook < Formula
   desc "Solves zybooks answers"
   homepage "https://github.com/t94j0/zybook"
   url "https://github.com/t94j0/zybook/archive/1.3.tar.gz"
-  sha256 "fa96e3453688da6dd7896070232e7b33c59bc1a7871b5f3aa6c116473c0e5c35"
+  sha256 "f50435bad64569f0226c4405c12d78f37892a34fef787e63225f7db1b2cf5cfb"
   depends_on "python"
 
   resource "parse" do
